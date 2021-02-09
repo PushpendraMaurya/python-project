@@ -23,7 +23,11 @@
             <a class="nav-link active" aria-current="page" href="index.php ">Home</a>
           </li>
           <li class="nav-item">
+<<<<<<< HEAD
             <a class="nav-link" href="#">Lniks </a>
+=======
+            <a class="nav-link" href="#">Servies</a>
+>>>>>>> cf4c2badce294e995ed5f107e77ca8878d4cb529
           </li>
           <li class="nav-item">
             <a class="nav-link" href="about.php">About</a>

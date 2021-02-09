@@ -3,7 +3,11 @@
 <head>
   <title></title>
   <meta charset="utf-8">
+<<<<<<< HEAD
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+=======
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+>>>>>>> 7d399fb32d96746dff7ff4238fc4df68ac2513a2
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
